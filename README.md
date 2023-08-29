@@ -1,12 +1,12 @@
-# *Replace with YourProposedProposedProjectName*
+# Chess Trainer
 ## Description/Motivation
 
-Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
+Create a web application that will collect previously played games and analyse these games to find weak points in the users 
+game. Then presents the positions that the user has played weakly previously and give them the opportunity to play a stronger move. 
 
 ### Prerequisites
 
-What is likely to be needed to install and to run *YourProposedProjectName* go here. If nothing is required (i.e. it is a website), state so.
-
+Nothing will be required to downlowad, it will be a web application. 
 ## Built With
 
 - [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
@@ -15,7 +15,7 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 
 ## Author
 
-- **Your name**: *YourProposadProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
+- Jako Bister: Chess Trainer [My Github Profile](https://github.com/bisterj)
 
 ## Acknowledgments
 
@@ -26,4 +26,6 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 ## License (not required initially)
 
 This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details
+
+[Concept File](concept.md)
 
