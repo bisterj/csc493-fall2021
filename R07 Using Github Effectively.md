@@ -1,4 +1,4 @@
-# **R7 Using Github Effectively <sup>1</sup>**
+# **R07 Using Github Effectively <sup>1</sup>**
 
     
 ## Purpose
