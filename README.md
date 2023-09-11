@@ -7,6 +7,12 @@ game. Then presents the positions that the user has played weakly previously and
 ### Concept
 [Concept.md](concept.md)
 
+### Scope
+[Scope]: This section should also be no more than one paragraph. It should very clearly specify both the scope of the project as what will be considered “out of scope”. Be sure to describe the intended major features that will be included in the project. Also, identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the project.
+
+### Vision
+[Vision]:This section is no more than a paragraph. It should present a concise vision statement which summarizes the purpose and intent of the project and describes what the world will be like when the project is completed. This vision statement may be somewhat idealistic, but it still should be grounded in the realities of time and resource limitations.
+
 ### Prerequisites
 
 Nothing will be required to downlowad, it will be a web application. 
