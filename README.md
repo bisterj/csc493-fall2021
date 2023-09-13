@@ -12,9 +12,9 @@ game. Then presents the positions that the user has played weakly previously and
 The scope of my chess trainer is that it will use the users previously played games to create opportunities for the user to improve. Specifically, this will be done by analysis of previously played games and presenting the user with weak points in these games, to give them the opportunity to played better/stronger moves. My project will not include a functional chess game to be played against a computer or other people nor an opening explorer (This could be a small thing to be done for further developement but not in the scope of this class). It will not have resources available to help you study ideas in general such as endgames, tactics, checkmates, and openings. It will also not have any way to group the weak points (might be an extension).
 
 ### Vision
-[Vision]:This section is no more than a paragraph. It should present a concise vision statement which summarizes the purpose and intent of the project and describes what the world will be like when the project is completed. This vision statement may be somewhat idealistic, but it still should be grounded in the realities of time and resource limitations.
 
-My project is being built to provide a new alternate way to study chess 
+My project is being built to provide a new alternate way to study chess, through preparing weak points in the users game as 
+the primary tool to get better at chess. 
 
 ### Prerequisites
 
